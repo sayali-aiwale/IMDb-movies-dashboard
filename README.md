@@ -26,7 +26,7 @@ This project is an IMDb Movies Dashboard created using Microsoft Excel. The dash
 
 ## 📷 Dashboard Preview
 
-![IMDb Dashboard](IMDbDashboard .png)
+![IMDb Dashboard](IMDbDashboard.png)
 
 ---
 
